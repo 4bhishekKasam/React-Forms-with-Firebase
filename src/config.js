@@ -2,12 +2,12 @@ import firebase from "firebase";
 
 // Initialize Firebase
 const config = {
-  apiKey: "AIzaSyDaegmkXnz-bF_nD31YsKnqrxAl6UYch-I",
+  apiKey: "AIzaSyDwegmkXnz-bF_nP31YsKnqrxA46UYch-I",
   authDomain: "userinfoform.firebaseapp.com",
   databaseURL: "https://userinfoform.firebaseio.com",
   projectId: "userinfoform",
   storageBucket: "userinfoform.appspot.com",
-  messagingSenderId: "759386227323"
+  messagingSenderId: "753086437313"
 };
 
 const firebaseConfig = firebase.initializeApp(config);
